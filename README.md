@@ -18,7 +18,7 @@ A seasoned professional with a unique blend of electrical, security, and IT expe
   - Owned and operated a low voltage security alarm & surveillance camera service, managing all aspects from technical installations to client security.
 
 - **IT Experience & Education**:
-  - Currently a Network Configuration Engineer, providing network solution for a group of insurance companies across the midwest states.
+  - Currently a Network Configuration Analyst, providing network solution for a group of insurance companies across the midwest states.
   - Taught Transformers classes at NEJATC, sharing knowledge with future electricians.
 
 ---
