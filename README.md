@@ -7,7 +7,7 @@
 
 ## About Me
 
-A seasoned professional with a unique blend of electrical, security, and IT expertise, I am passionate about leveraging technology to solve real-world problems. My journey spans from electrical engineering to IT support, with a focus on cybersecurity and AI technologies.
+A seasoned professional with a unique blend of electrical, security, and IT expertise, I am passionate about leveraging technology to solve real-world problems. My journey spans from electrical engineering to End User customer support and everything in between, with a focus on cybersecurity and AI technologies.
 
 ---
 
