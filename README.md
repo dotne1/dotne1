@@ -27,7 +27,6 @@ A seasoned professional with a unique blend of electrical, security, and IT expe
 
 - **Computer Engineering**, Tennessee Technological University (3rd Year)
 - **Journeyman Electrician Certification**, NEJATC
-- **Pursuing**: Google Cybersecurity Professional Certificate & Certified Ethical Hacker Certificate
 
 ---
 
