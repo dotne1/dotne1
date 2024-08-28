@@ -19,7 +19,7 @@ A seasoned professional with a unique blend of electrical, security, and IT expe
 
 - **IT & Electrical Experience**:
   - Network Configuration Analyst, providing network solution for a group of insurance companies across the midwest states.
-  - Taught Transformers classes at NEJATC, sharing knowledge with future electricians after completing an apprenticeship.
+  - Taught Transformers classes at NEJATC, sharing knowledge with future electricians after completing an apprenticeship. Primarily managed the instillation and configuration of data centers for businesses, and fire systems for car manufacturers.
   - Provided End-User support and Helpdesk tier 1 for a hospital in South Carolina.
  
 ---
